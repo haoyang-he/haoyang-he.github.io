@@ -1,14 +1,7 @@
----
-layout: default
-title: Home
----
 
-# Haoyang He
-
-PhD Student, Computer Science, XYZ University
 
 ## About Me
-Brief bio goes here.
+I am a second-year PhD student in mathematics at Memorial University of Newfoundland, supervised by Prof. Eduardo Martínez-Pedroza. 
 
 ## Contact
-Email: [your.email@example.com](mailto:your.email@example.com)
+Email: haoyangh [at] mun [dot] ca
