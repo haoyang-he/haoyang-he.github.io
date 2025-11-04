@@ -2,10 +2,8 @@
 
 # Research
 
-## Publications
-1. Paper 1, Journal, Year
-2. Paper 2, Conference, Year
+## Preprint
+1. Curve complex as a coset intersection complex, preprint, joint with Eduardo Martínez-Pedroza.
+   https://arxiv.org/abs/2510.23955
 
-## Projects
-- Project 1: Short description
-- Project 2: Short description
+
