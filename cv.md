@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Brief Curriculum Vitae
 
 ## Education
 **Doctor of Philosophy (PhD) in Mathematics**, Memorial University of Newfoundland, 2024–Present  
