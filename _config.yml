@@ -7,3 +7,4 @@ url: "https://haoyang-he.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
