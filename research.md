@@ -1,4 +1,7 @@
-# Research
+---
+layout: default
+title: Research
+---
 
 ## Preprint
 1. Curve complex as a coset intersection complex, preprint, joint with [Eduardo Martínez-Pedroza](https://www.math.mun.ca/~emartinezped/).
