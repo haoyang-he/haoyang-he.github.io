@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-I have been a teaching assistant for the following courses:
+I have been a teaching assistant for the following courses at Memorial:
 
 MATH1001 Calculus II, Spring 2025.
 
