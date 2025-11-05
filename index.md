@@ -1,5 +1,6 @@
 ---
-show_title: false
+layout: default
+title: About me
 ---
 
 ## About me
