@@ -1,9 +1,3 @@
----
-layout: default
-title: About
-show_title: false
---
-
 ## About me
 
 I am a second-year PhD student in mathematics at Memorial University of Newfoundland, supervised by [Prof. Eduardo Martínez-Pedroza](https://www.math.mun.ca/~emartinezped/). 
