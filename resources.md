@@ -11,6 +11,8 @@ Lecture notes archives for maths courses at the University of Oxford [link](http
 
 Lecture notes archives at Clay Mathematics Institute [link](https://www.claymath.org/resource_type/lecture-notes/)
 
+Open maths notes, American Mathematical Society [link](https://www.ams.org/open-math-notes)
+
 Course notes by Danny Calegari [link](https://math.uchicago.edu/~dannyc/teaching.html)
 
 Course notes by Curtis McMullen [link](https://people.math.harvard.edu/~ctm/courses.html)
