@@ -5,7 +5,7 @@ title: Research
 
 # Research 
 
-## Preprint
+## Preprints
 
 The pdf version posted here may be more up-to-date than the arXiv one, but the differences are minor.
 
