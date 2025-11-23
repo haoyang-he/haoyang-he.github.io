@@ -9,7 +9,7 @@ Here are some resources I find useful.
 
 Lecture notes archives for maths courses at the University of Oxford [link](https://courses.maths.ox.ac.uk/course/index.php)
 
-Lecture notes archives at Clay Mathematics Institute [link](https://www.claymath.org/resource_type/lecture-notes/)
+Lecture notes archives, Clay Mathematics Institute [link](https://www.claymath.org/resource_type/lecture-notes/)
 
 Open maths notes, American Mathematical Society [link](https://www.ams.org/open-math-notes)
 
